@@ -9,4 +9,5 @@ You can click the Preview link to take a look at your changes.
 </section>
 
 <a> I'm Vikram Singh, an Engineer specializing in Python and SQL. Currently working as a Technical Operations Engineer at TS Imagine using Perl, Bash, SQL, MongoDB, TeamCity and Docker for performing daily tasks. My duties are to ensure that the Production system is Operational, create bespoke processes for certain clients, identify and resolve any inefficiencies is the system. </a> 
-<a> Looking for challenging projects, roles to use and build on my current experience and knowledge. </a>
+<br>
+<a> Looking for roles to use and build on my current experience and knowledge. </a>
