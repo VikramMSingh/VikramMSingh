@@ -19,9 +19,7 @@ I am building www.propomate.com using Django & Postgres SQL. Currently not in th
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="30px"> 
-<br>
-<img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width="40px">
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="30px"> <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width="40px">
 
 ---
 
